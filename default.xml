@@ -4,7 +4,8 @@
            fetch="https://github.com/" />
 
   <remote  name="revel"
-           fetch="github.com/revel" revision="master"/>
+           fetch="https://github.com/revel"
+           revision="master"/>
 
   <default revision="refs/heads/master"
            remote="revel"/>
