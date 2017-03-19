@@ -5,7 +5,7 @@
 
   <remote  name="revel"
            fetch="https://github.com/revel/"
-           revision="master"/>
+           revision="develop"/>
   <remote  name="revel-master"
            fetch="https://github.com/revel/"
            revision="master"/>
