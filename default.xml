@@ -19,7 +19,7 @@
   <project name="cron"    remote="revel" path="src/github.com/revel/cron"     groups="core,all" />
   <project name="config"    remote="revel" path="src/github.com/revel/config"     groups="core,all" />
   <project name="fsnotify"    remote="revel-master" path="src/github.com/revel/fsnotify"     groups="core,all" />
-  <project name="log"    remote="revel-master" path="src/github.com/revel/log"     groups="core,all" />
+  <!-- project name="log"    remote="revel-master" path="src/github.com/revel/log"     groups="core,all" / -->
   <project name="compress"    remote="revel-master" path="src/github.com/revel/compress"     groups="core,all" />
   <project name="gocolorize"    remote="revel-master" path="src/github.com/revel/gocolorize"     groups="core,all" />
   <project name="pathtree"    remote="revel-master" path="src/github.com/revel/pathtree"     groups="core,all" />
