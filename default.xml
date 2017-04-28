@@ -34,7 +34,7 @@
 
   <project name="revel.github.io"  remote="revel"
            path="src/github.com/revel/revel.github.io"              groups="docs,all,notdefault" />
-  <project name="examples"  remote="revel" path="src/github.com/revel/examples" revision="server-engine"  groups="docs,all,notdefault" />
+  <project name="examples"  remote="revel" path="src/github.com/revel/examples" revision="server-engine"  groups="docs,all" />
   <project name="rfcs"     remote="revel" path="src/github.com/revel/rfcs"      groups="docs,all,notdefault" />
   <project name="manual"  remote="revel" path="src/github.com/revel/revel.github.io"   groups="docs,all,notdefault" />
   <project name="website"  remote="revel" path="src/github.com/revel/revelframework.com"   groups="docs,all,notdefault" />
